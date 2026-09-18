@@ -1,0 +1,10 @@
+﻿Priority,Resource,Type,URL,Project use
+P0,DUD-E,Dataset,https://dude.docking.org/targets,constructed-decoy primary benchmark
+P0,LIT-PCBA,Dataset,https://drugdesign.unistra.fr/LIT-PCBA/,full vs unbiased construct validity
+P0,RDKit,Library/docs,https://www.rdkit.org/docs/,descriptor/scaffold/fingerprint baseline
+P0,SmallMolEval,GitHub,https://github.com/llnl/SmallMolEval,AVE external cross-check
+P1,DeepCoy,GitHub,https://github.com/fimrie/DeepCoy,generated-decoy selection/evaluation
+P1,MUBDsyn,GitHub,https://github.com/taoshen99/MUBDsyn,unbiased synthetic negative generation
+P1,MUBD-DecoyMaker2.0,GitHub,https://github.com/jwxia2014/MUBD-DecoyMaker2.0,decoy construction criteria
+P1,DataSAIL,GitHub,https://github.com/kalininalab/DataSAIL,similarity-aware leakage control
+P2,GEMS / CleanSplit,GitHub,https://github.com/camlab-ethz/GEMS,future protein-ligand split/leakage extension
